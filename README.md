@@ -11,7 +11,7 @@ opencv dependencies are installed on official tensorflow/tensorflow:lates-gpu ba
 
 #### 1. pull built image from docker hub:
 
-    $ docker pull singalkunal/tensorflow-opencv:tf-gpu-cv-4.2.0
+    $ docker pull singalkunal/tensorflow-opencv:latest-tf-gpu-cv4
 
 #### 2. build locally:
     
